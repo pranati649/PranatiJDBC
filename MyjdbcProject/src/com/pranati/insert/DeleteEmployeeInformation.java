@@ -17,7 +17,7 @@ public class DeleteEmployeeInformation {
 
 					st.close();
 					con.close();
-					System.out.println("deleted successfully");
+					System.out.println("deleted successfully   hello");
 					
 				} 
 		catch (ClassNotFoundException e) 
